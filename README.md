@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding blooket hacks
 - 🌱 I’m currently learning coding blooket hacks
 - 💞️ I’m looking to collaborate on how to get all blooks permanately
-- 📫 How to reach me externaloak76@outlook.com
+- 📫 How to reach me externaloak76@gmail.com
 
 <!---
 externaloak76/externaloak76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
